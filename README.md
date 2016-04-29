@@ -1,3 +1,3 @@
-# Douit
-526game
-Two player game developed using Unity2D
+# Dou.it
+IOS game
+Two player share screen sumo theme party game developed using Unity2D.
